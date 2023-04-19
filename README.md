@@ -2,17 +2,20 @@
   Hi there <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Zaid 👨
 </h1>
 <h3 align='center'>
-  A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
+  A passionate frontend engineer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
 </h3>
 
 <div align='center'> <img src="https://komarev.com/ghpvc/?username=zaidsheriff786&label=Profile%20views&color=0e75b6&style=flat" alt="zaidsheriff786" /> </div>
 <br/>
 <img src="./Assets/Zaid.png" alt="Banner"/>
-<br />
+
+## About me:
+<p align="justify">
+Frontend Engineer having more than 5 years of experience in building tech products. Have experience in working in multiple domains(E-commerce and Healthcare). Highly skilled in building complex, large-scale and performant web applications. Skilled in collaborating with back-end engineers to develop seamless user experiences.
+Passionate engineer who strives to build pixel perfect design and committed to staying up-to-date with emerging trends in front-end development.
+</p>
 
 🔭 I’m currently working on **[🚀 Khana Khazana](https://khana-khazzana.vercel.app/)** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-🌱 I’m currently learning **React js from [Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)**
 
 💬 Ask me about **Frontend Development**
 
