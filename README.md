@@ -11,7 +11,7 @@
 
 ## About me:
 <p align="justify">
-Frontend Engineer having having a progressive 5+ years of experience in building tech products. Have experience in working in multiple domains, including, but not limited to E-commerce and Healthcare. Highly skilled in building complex, large-scale and performant web applications. Skilled in collaborating with back-end engineers to develop seamless user experiences.
+  A <b>Frontend Engineer</b> having having a progressive 5+ years of experience in building tech products. Have experience in working in multiple domains, including, but not limited to E-commerce and Healthcare. Highly skilled in building complex, large-scale and performant web applications. Skilled in collaborating with back-end engineers to develop seamless user experiences.
 Passionate engineer who strives to build pixel perfect design and committed to staying up-to-date with emerging trends in front-end development.
 </p>
 
