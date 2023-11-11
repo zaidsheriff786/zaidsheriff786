@@ -11,11 +11,11 @@
 
 ## About me:
 <p align="justify">
-  A <b>Frontend Engineer</b> having a progressive 5+ years of experience in building tech products. Have experience in working in multiple domains, including, but not limited to E-commerce and Healthcare. Highly skilled in building complex, large-scale and performant web applications. Skilled in collaborating with back-end engineers to develop seamless user experiences.
+  A <b>Frontend Engineer</b> having a progressive 6+ years of experience in building tech products. Have experience in working in multiple domains, including, but not limited to E-commerce and Healthcare. Highly skilled in building complex, large-scale and performant web applications. Skilled in collaborating with back-end engineers to develop seamless user experiences.
 Passionate engineer who strives to build pixel perfect design and committed to staying up-to-date with emerging trends in front-end development.
 </p>
 
-🔭 I’m currently working on **[🚀 Khana Khazana](https://khana-khazzana.vercel.app/)** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+🔭 I’m currently working at **[🚀 Planview](https://www.planview.com/)** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 💬 Ask me about **Frontend Development**
 
