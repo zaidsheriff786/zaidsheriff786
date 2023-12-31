@@ -11,8 +11,7 @@
 
 ## About me:
 <p align="justify">
-  A <b>Frontend Engineer</b> having a progressive 6+ years of experience in building tech products. Have experience in working in multiple domains, including, but not limited to E-commerce and Healthcare. Highly skilled in building complex, large-scale and performant web applications. Skilled in collaborating with back-end engineers to develop seamless user experiences.
-Passionate engineer who strives to build pixel perfect design and committed to staying up-to-date with emerging trends in front-end development.
+<b>Frontend Engineer</b> with 6+ years of progressive experience in crafting tech products. Experienced in diverse industry domains, specializing in the E-commerce industry. Proficient in developing complex, large-scale, and performant web applications. Collaborated with back-end engineers to create seamless user experiences. Focuses on achieving pixel-perfect designs and staying up-to-date with emerging trends in front-end development.
 </p>
 
 🔭 I’m currently working at **[🚀 Planview](https://www.planview.com/)** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
