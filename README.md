@@ -2,7 +2,7 @@
   Hi there <img src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Zaid 👨
 </h1>
 <h3 align='center'>
-  A passionate frontend engineer from India <img style="vertical-align:bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
+  A passionate frontend engineer from India <img src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
 </h3>
 
 <div align='center'> <img src="https://komarev.com/ghpvc/?username=zaidsheriff786&label=Profile%20views&color=0e75b6&style=flat" alt="zaidsheriff786" /> </div>
